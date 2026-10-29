@@ -1,0 +1,4 @@
+ID      |  Title                         |  Author                   |  Publication         |  Quantity|  
+653     |  Book 1                        |  Author 1                 |  Publication 1       |  3       |  
+678     |  Book 2                        |  Author 2                 |  Publication 2       |  3       |  
+153     |  Book 3                        |  Author 3                 |  Publication 3       |  7       |  

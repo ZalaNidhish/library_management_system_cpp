@@ -1,0 +1,2 @@
+Book ID |  User ID |  Issue Date  |  Issued  |  Stock Left|  
+678     |  679     |  30-10-2026  |  2       |  3         |  
